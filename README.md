@@ -15,7 +15,7 @@ The session is a self-directed exercise in **finding, importing, and plotting re
 This is an open-ended, self-directed exercise. Rather than working through pre-written code, students are asked to:
 
 1. Search for and download the Mauna Loa monthly CO₂ data, saving it as an Excel workbook (or similar)
-2. Create a **new** Colab notebook (no GitHub template required for this step)
+2. Create a copy of the notebook in Colab
 3. Mount and read the data into the notebook using `pandas`
 4. Plot CO₂ concentration against time using `matplotlib`, with appropriately labelled axes
 5. Annotate the notebook to describe the workflow, explain the code, and cite data sources
